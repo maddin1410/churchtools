@@ -12,7 +12,7 @@ composer start
 
 Dabei wird ein "composer install" durchgeführt, um die benötigten Komponenten zu laden. anschließend wird ein lokaler PHP Server auf dem Port 8080 gestartet.
 
-In der Datei src/Application/Settings/Settings.php müssen (ab Zeile 26) die Verbindungsdaten zu einer lokalen instanz einer ChurchTools Datenbank angegeben weden.
+In der Datei app/Settings.php müssen (ab Zeile 26) die Verbindungsdaten zu einer lokalen instanz einer ChurchTools Datenbank angegeben weden.
 
 ## Anzeige der Anwendung im Browser
 
